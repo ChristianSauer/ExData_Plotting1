@@ -1,3 +1,12 @@
+# **Warning:** 
+due to space considerations, the dataset is not included in this commit. Please provide an unzipped copy of the file in your working directory.
+The file read_data.R contains code to parse the dataset and must be downloaded, otherwise the plot scripts won't work.
+
+# Language problems for the plots 2 -4
+Please note that the labels of the x axis are language dependent. 
+The labels where created on a computer with a german language as default, therefore the language labels appear in german "Do" -> Thu, "Fr" -> Fri, "Sa" -> Sat.
+
+
 ## Introduction
 
 This assignment uses data from
